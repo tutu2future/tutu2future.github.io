@@ -31,7 +31,7 @@ author:
   # email            : "none@example.org" 
 
   # Academic websites
-  XHS            : "https://www.xiaohongshu.com/user/profile/5e9429a000000000010022d9"
+  # XHS            : "https://www.xiaohongshu.com/user/profile/5e9429a000000000010022d9"
   # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   # impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
@@ -48,7 +48,7 @@ author:
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
