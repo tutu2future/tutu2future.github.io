@@ -12,7 +12,7 @@ title                    : "Jiang Lai"
 title_separator          : "-"
 name                     : &name "Jianglai"
 description              : &description "personal description"
-url                      : https://tutu2future.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tutu2future.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "tutu.webp"
   name             : "Jiang Lai"
   pronouns         : # example: "she/her"  
   bio              : "A Successful Business Girl; Owner of Second-hand Luxury Stores"
